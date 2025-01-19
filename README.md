@@ -25,7 +25,7 @@ Monthly Revenue vs Target -> Tracks monthly performance against goals, which is 
 
 ### In this project, I meticulously crafted these dashboards to provide actionable insights into sales trends, customer behavior, and store performance. Through this process, I honed my skills in data analysis, visualization, and strategic decision-making. I've extensively utilized Excel's robust features, including option buttons, combo boxes, macros, and hide and show filters, to craft intuitive and actionable dashboards. The findings from these dashboards have empowered Kim Business to make informed decisions, optimize resources, and drive profitability.
 
-#### Kindly check out the display video on linkedin
+#### Kindly check out the displayed video on linkedin
 
 https://www.linkedin.com/posts/olanrewaju-dasola-697a70253_hashtag-exceldashboard-hashtag-activity-7286493668805349377-PwlU?utm_source=share&utm_medium=member_ios
 
