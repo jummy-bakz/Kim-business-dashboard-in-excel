@@ -6,6 +6,11 @@
 
 * Month-by-Month Analysis -> Offers a detailed month-by-month breakdown of total revenue and targets, highlighting variances. This can be important for financial planning and performance management.
 
+
+
+![store](https://github.com/user-attachments/assets/a4c9989e-bbb1-45ff-9ba1-db6d020c2073)
+
+
 # profit_Dashboard
 * Customer Analysis -> provide insights into the profit generated from male and female customers, and breaks down the average spending by customer age groups, showing which age groups are most profitable.
 
@@ -15,12 +20,22 @@
 
 * Product Analysis -> Details the top-selling and most profitable products, as well as product return and refund rates. This is critical for inventory management and identifying which products are most valuable to the business.
 
+
+![Profit view 1](https://github.com/user-attachments/assets/ed42830f-36e9-45ba-bcd2-f52eb51ef47b)
+
+![Profit view 2](https://github.com/user-attachments/assets/9a290436-c043-4fc3-9560-62dde0ecc504)
+
+
+
 # TimeFrame_Dashboard
 Quarterly Revenue Analysis -> Shows revenue generated per quarter against the average, providing a quick view of performance relative to the norm.
 
 Weekday/Weekend Revenue Analysis -> Gives a comparison of revenue generated on weekdays versus weekends, which can help in making staffing and operational decisions.
 
 Monthly Revenue vs Target -> Tracks monthly performance against goals, which is fundamental for short-term financial planning and adjustments.
+
+![Time frame](https://github.com/user-attachments/assets/d0a1db7a-a030-4ecc-a6cf-7a46cbee5afa)
+
 
 
 ### In this project, I meticulously crafted these dashboards to provide actionable insights into sales trends, customer behavior, and store performance. Through this process, I honed my skills in data analysis, visualization, and strategic decision-making. I've extensively utilized Excel's robust features, including option buttons, combo boxes, macros, and hide and show filters, to craft intuitive and actionable dashboards. The findings from these dashboards have empowered Kim Business to make informed decisions, optimize resources, and drive profitability.
